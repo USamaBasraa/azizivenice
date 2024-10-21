@@ -3587,7 +3587,7 @@ input#phone {
   
   <div class="lp-element lp-pom-form has-axis" id="lp-pom-form-676">
   
-  <form action="https://www.dubai-south.info/fsg?pageId=cecc33d0-36e6-4d6a-977c-7ecaf53c8251&amp;variant=b" method="POST">
+  <form action="submit.php" method="POST">
   <input type="hidden" name="pageId" value="cecc33d0-36e6-4d6a-977c-7ecaf53c8251">
   <input type="hidden" name="pageVariant" value="b">
   
@@ -5006,6 +5006,14 @@ input#phone {
     transform-origin: 0 0;
     position: absolute;
 }
+}
+@media (min-width: 425px) and (max-width: 767px) {
+    #lp-pom-text-694B {
+        display: none;
+    }
+    #plam40 {
+        font-size: 20px !important;
+    }
 }
 </style>
   <a href="https://wa.me/+971566036117" class="whatsapp-button" target="_blank">
