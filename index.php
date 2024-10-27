@@ -1,3 +1,7 @@
+<?php
+session_start(); // Start the session
+?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
 <!-- Mirrored from www.dubai-south.info/azizi-venice/?utm_source=Google&utm_medium=cpc&gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3ko6khVZQ5VZh94VcHm6xrHrZ6_26R446M68cHrvnYfEq8GglCkwN4hoCMNkQAvD_BwE by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 17 Oct 2024 08:47:48 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
@@ -168,7 +172,7 @@ a {
  top:553px;
  z-index:40;
  width:427px;
- height:459px;
+ height:480px;
  position:absolute;
 }
 #lp-pom-text-678 {
@@ -191,7 +195,7 @@ a {
  border-style:none;
  border-radius:0px;
  left:62px;
- top:81px;
+ top:78px;
  z-index:44;
  width:300px;
  height:26px;
@@ -415,7 +419,7 @@ a {
     top: 191px;
     z-index: 40;
     width: 427px;
-    height: 459px;
+    height: 480px;
     position: absolute;
 }
 #lp-pom-image-681 {
@@ -1281,7 +1285,7 @@ a {
 }
 #container_phone {
  position:absolute;
- top:156px;
+ top:145px;
  left:0px;
  width:329px;
  height:34px;
@@ -1772,7 +1776,7 @@ a {
  top:454px;
  z-index:40;
  width:280px;
- height:437px;
+ height:480px;
  position:absolute;
 }
 #lp-pom-text-678 {
@@ -1961,7 +1965,7 @@ a {
  border-style:none;
  border-radius:0px;
  left:20px;
- top:934px;
+ top:957px !important;
  z-index:6;
  width:440px;
  height:116px;
@@ -2694,6 +2698,55 @@ a {
  text-align:center;
  background-repeat:no-repeat;
 }
+#lp-pom-button-6771 {
+ display:block;
+ border-style:solid;
+ box-shadow:0px 4px 4px #00000070 !important;
+ border-radius:5px;
+ left:41px;
+ top:265px;
+ z-index:42;
+ width:148px;
+ height:30px;
+ position:absolute;
+ background:rgba(84,140,151,1);
+ text-shadow:none;
+ color:#ffffff;
+ border-width:1px;
+ border-color:#246474;
+ font-size:14px;
+ line-height:17px;
+ font-weight:500;
+ font-family:Montserrat;
+ font-style:normal;
+ text-align:center;
+ background-repeat:no-repeat;
+}
+#lp-pom-buttonyes-677 {
+ display:block;
+ border-style:solid;
+ box-shadow:0px 4px 4px #00000070 !important;
+ border-radius:5px;
+ left:41px;
+ top:350px !important;
+ z-index:42;
+ width:148px;
+ height:30px;
+ position:absolute;
+ background:rgba(84,140,151,1);
+ text-shadow:none;
+ color:#ffffff;
+ border-width:1px;
+ border-color:#246474;
+ font-size:14px;
+ line-height:17px;
+ font-weight:500;
+ font-family:Montserrat;
+ font-style:normal;
+ text-align:center;
+ background-repeat:no-repeat;
+ display:none;
+}
 body {
  color:#3f4144;
 }
@@ -2927,7 +2980,7 @@ a {
 }
 #container_phone {
  position:absolute;
- top:156px;
+ top:145px;
  left:0px;
  width:231px;
  height:34px;
@@ -3329,6 +3382,16 @@ input#phone {
 </style><link rel="preload" href="https://www.dubai-south.info/assets/ae6aa209-7de1-4064-a64a-6b4c2a74aec6/venice-by-azizi-luxury-villas.original.webp?1721112749" as="image"><!-- lp:insertions end head -->
 <script>window.ub=window.ub||{};window.ub.visitorId="207c3be3-1f48-43f7-9917-5ecc350300b3";window.ub.routingStrategy="dta";window.ub.contentRoutingStrategy="dta";window.ub.domain={};</script>
 <script async src="../_ub/static/ts/e6c35f50fd3355ae56cc4292c3ae66e2e57ced28.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TWZFSGP7');</script>
+<!-- End Google Tag Manager -->
+
+
 </head>
     <body class="lp-pom-body"><!-- lp:insertions start body:before --><!-- lp:insertions end body:before -->
 <!-- Google Tag Manager --> <noscript><iframe src='http://www.googletagmanager.com/ns.html?id=GTM-TNKNSG68' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-TNKNSG68');</script> <!-- End Google Tag Manager --> <script type='text/javascript'>(function() {
@@ -3587,9 +3650,7 @@ input#phone {
   
   <div class="lp-element lp-pom-form has-axis" id="lp-pom-form-676">
   
-  <form action="submit.php" method="POST">
-  <input type="hidden" name="pageId" value="cecc33d0-36e6-4d6a-977c-7ecaf53c8251">
-  <input type="hidden" name="pageVariant" value="b">
+  <form action="send.php" method="POST">
   
   <div class="fields">
   
@@ -3604,9 +3665,12 @@ input#phone {
   <div class="lp-pom-form-field email" id="container_email">
   <input id="email" name="email" type="email" class="ub-input-item single text form_elem_email" placeholder="Email" required="" pattern="^[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9_\-]+[.]+[a-zA-Z0-9\-.]{2,61}$">
   </div>
-  
+
   <div class="lp-pom-form-field single-line-text" id="container_phone">
-    <input id="last_name" name="phone_number" type="text" class="ub-input-item single text form_elem_last_name" placeholder="Phone Number" required="">
+    <!-- <input id="phone_number" name="phone_number" type="text" class="ub-input-item single text form_elem_last_name" placeholder="Phone Number" required=""> -->
+
+    <input id="phone" name="phone_number" type="tel" class="ub-input-item single text form_elem_phone" placeholder="Phone Number" required="" pattern="^\+?( ?[\(]?[\-]?[0-9][\)]?){6,13}$" autocomplete="off" data-intl-tel-input-id="0" fdprocessedid="bh7fpa">
+
   </div>
   
   <div class="lp-pom-form-field single-line-text" id="container_message">
@@ -3615,11 +3679,20 @@ input#phone {
   <input id="utm_source" name="utm_source" type="hidden" class="hidden" value="Website">
   <input id="utm_medium" name="utm_medium" type="hidden" class="hidden" value="">
   <input id="utm_campaign" name="utm_campaign" type="hidden" class="hidden" value="">
-  </div><button class="lp-element lp-pom-button" id="lp-pom-button-677" type="submit">
+  </div><input class="lp-element lp-pom-button" id="lp-pom-button-677" type="submit" value="Submit" name="send" disabled>
+
+  <?php if (isset($_SESSION['success_message'])): ?>
+        <input class="lp-element lp-pom-button message" type="text" value="<?php echo $_SESSION['success_message']; ?>" disabled style="position:absolute;top:310px; color:white;border:none">
+        <?php unset($_SESSION['success_message']); // Clear the message after displaying it ?>
+    <?php endif; ?>
   
-  <span class="label">Submit
-  </span></button>
+
+
+
   </form>
+
+
+
   </div>
   
   <div class="lp-element lp-pom-text nlh" id="lp-pom-text-678">
@@ -3634,7 +3707,7 @@ input#phone {
   
   <p style="line-height: 26px; text-align: center;">
   
-  <span style="font-weight: 400; font-family: Montserrat; font-size: 14px; color: rgb(255, 255, 255); font-style: normal;">The perfect place to work, live and invest
+  <span style="font-weight: 400; font-family: Montserrat; font-size: 14px; color: rgb(255, 255, 255); font-style: normal;">The perfect place to work, live and invest. Fill all fields to enable the submit button.
   </span></p>
   </div>
   </div>
@@ -4496,7 +4569,7 @@ input#phone {
     top: 191px;
     z-index: 40;
     width: 427px;
-    height: 459px;
+    height: 480px;
     position: absolute;
 }
 #lp-pom-text-710 {
@@ -4647,7 +4720,7 @@ input#phone {
     top: 503px;
     z-index: 40;
     width: 427px;
-    height: 459px;
+    height: 480px !important;
     position: absolute;
 }
 #lp-pom-text-9 {
@@ -5014,10 +5087,43 @@ input#phone {
     #plam40 {
         font-size: 20px !important;
     }
+    #lp-pom-text-729 {
+        display: block;
+        background: rgba(255, 255, 255, 0);
+        border-style: none;
+        border-radius: 0px;
+        left: 45px;
+        top: 4073px;
+        z-index: 45;
+        width: 456px;
+        height: 124px;
+        transform: scale(0.7);
+        transform-origin: 0 0;
+        -webkit-transform: scale(0.7);
+        -webkit-transform-origin: 0 0;
+        position: absolute;
+    }
+    #lp-pom-text-510 {
+        display: block;
+        background: rgba(255, 255, 255, 0);
+        border-style: none;
+        border-radius: 0px;
+        left: 14px;
+        top: 3182px;
+        z-index: 37;
+        width: 399px;
+        height: 248px;
+        transform: scale(0.7);
+        transform-origin: 0 0;
+        -webkit-transform: scale(0.7);
+        -webkit-transform-origin: 0 0;
+        position: absolute;
+        width: 399px !important;
+    }
 }
 </style>
   <a href="https://wa.me/+971566036117" class="whatsapp-button" target="_blank">
-    <i style="font-size:24px" class="fa">&#xf095;</i>
+    <i style="font-size:40px" class="fa fa-whatsapp"></i>
 </a>
 
 
@@ -5039,9 +5145,23 @@ input#phone {
 <script src="code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css" crossorigin="anonymous" />
   
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TWZFSGP7');</script>
+<!-- End Google Tag Manager -->
+
+
 </head>
 
-<body> <script src='cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js'></script>
+<body> 
+
+
+
+<script src='cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js'></script>
 <script>
 <script src='intl-tel-input.com/node_modules/intl-tel-input/build/js/intlTelInputb9d5.html?1549804213570'></script>
 <script>
@@ -5086,7 +5206,122 @@ addressDropdown.addEventListener('change', function() {
 $("#phone").prop('value', '+971 '); //for country code, you can change it for default
 </script>
 </script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWZFSGP7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const messageInput = document.querySelector('.message');
+            if (messageInput) {
+                messageInput.style.display = 'block'; // Show the message
+                
+                setTimeout(() => {
+                    messageInput.style.display = 'none'; // Hide the message after 5 seconds
+                    
+                    // Make an AJAX call to remove the session message
+                    fetch('clear_session_message.php', { method: 'POST' });
+                }, 9000);
+            }
+        });
+</script>
+
 </body><script async src="builder-assets.unbounce.com/published-js/main.bundle-ef43f79.z.js" type="text/javascript"></script><!-- lp:insertions end body:after -->
+
+
+
+<?php
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+// Initialize variables
+$first_name = '';
+$last_name = '';
+$email = '';
+$phone_number = '';
+$message = '';
+$successMessage = '';
+
+
+
+if (isset($_POST["send"])) {
+    $first_name = $_POST["first_name"];
+    $last_name = $_POST["last_name"];
+    $email = $_POST["email"];
+    $phone_number = $_POST["phone_number"];
+    $message = $_POST["message"];
+
+    require 'PHPMailer/Exception.php';
+    require 'PHPMailer/PHPMailer.php';
+    require 'PHPMailer/SMTP.php';
+
+    $mail = new PHPMailer(true);
+
+    try {
+        $mail->isSMTP();
+        $mail->Host       = 'smtp.gmail.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'usamabadarbasra@gmail.com';
+        $mail->Password   = 'jxkz meji uqnb zndz'; // Use your App Password
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->Port       = 465;
+
+        $mail->setFrom('usamabadarbasra@gmail.com', 'Contact Form');
+        $mail->addAddress('rafat.dxb@gmail.com', 'CEO Email');
+
+        $mail->isHTML(true);
+        $mail->Subject = 'New Record';
+        $mail->Body    = "Sender Name: $first_name $last_name <br> Sender Email: $email <br> Phone Number: $phone_number <br> Message: $message";
+
+        $mail->send();
+        
+        echo '<script type="text/javascript">
+                alert("Your information has been received successfully.");
+                document.addEventListener("DOMContentLoaded", function() {
+                    document.getElementById("first_name").value = "";
+                    document.getElementById("last_name").value = "";
+                    document.getElementById("email").value = "";
+                    document.getElementById("phone_number").value = "";
+                    document.getElementById("message").value = "";
+                });
+              </script>';
+                  
+              // Clear form data
+        $first_name = '';
+        $last_name = '';
+        $email = '';
+        $phone_number = '';
+        $message = '';
+
+        header('Location: index.php');
+        exit; 
+    } catch (Exception $e) {
+        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    }
+}
+?>
+<script>
+function checkFields() {
+  const firstName = document.getElementById('first_name').value;
+  const lastName = document.getElementById('last_name').value;
+  const email = document.getElementById('email').value;
+  const phoneNumber = document.getElementById('phone').value;
+
+  const submitButton = document.getElementById('lp-pom-button-677');
+  
+  submitButton.disabled = !(firstName && lastName && email && phoneNumber);
+}
+
+// Add event listeners to the input fields
+document.getElementById('first_name').addEventListener('input', checkFields);
+document.getElementById('last_name').addEventListener('input', checkFields);
+document.getElementById('email').addEventListener('input', checkFields);
+document.getElementById('phone_number').addEventListener('input', checkFields);
+</script>
 </body>
 <!-- Mirrored from www.dubai-south.info/azizi-venice/?utm_source=Google&utm_medium=cpc&gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3ko6khVZQ5VZh94VcHm6xrHrZ6_26R446M68cHrvnYfEq8GglCkwN4hoCMNkQAvD_BwE by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 17 Oct 2024 08:48:24 GMT -->
 </html>
